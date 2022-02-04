@@ -3,7 +3,7 @@ head {
     image: url("banner2.png");
 }
 
-body {
+head {
     background-image: url("background.png");
 }
 
